@@ -1,3 +1,6 @@
+#PT-BR: Script para gerar histograma da distribuição de valores de dN/dS de genes analisados segundo modelo M0 do codeml (pacote PAML)
+#EN: Script to generate histogram representing the distribution of dN/dS values of genes analyzed according to the M0 model of the codeml (PAML package)
+
 require(ggplot2)
 
 setwd('/home/user/dnds/')
