@@ -1,6 +1,6 @@
 ## R Scripts
 
-### 
+### Scripts (and example files) to generated figures and plots commonly used in Bioinformatics.
 
 - __heatmap.R__ (example file: dados_heatmap.csv)
 - __histogram_all_omega_codeml-M0.R__ (example file: all_omega_codeml-M0.txt)
